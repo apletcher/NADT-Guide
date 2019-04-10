@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://github.com/apletcher" target="_blank"><img src="https://user-images.githubusercontent.com/26122529/55872759-0fcbaa00-5b8e-11e9-82eb-1b21c38cd0ab.png"></a>
+ </p>
+
+
+
 # NADT-Guide
 > A community driven guide for the network engineering and operations community to share their knowledge on network
 anatomy, diagnostics and treatment.
